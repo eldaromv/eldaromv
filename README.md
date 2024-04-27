@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eldar
 =============================================================================================================================
 
-I've been learning javascropt for a year. After my graduation, I realized that I want to work in it sphere. About 6 months I've been learning Backend Java programming. But then I changed my mind and took courses of Frotend Javascript Developer. I'm still on my small stuyding way. 
+I've been learning javascropt for a year. After my graduation, I realized that I want to work in IT sphere. About 6 months I've been learning Backend Java programming. But then I changed my mind and took courses of Frotend Javascript Developer. I'm still on my small stuyding way. 
 
 👨‍🎓 Higher education: Pacific National University 2019-2023 Bachelor’s Degree in Linguistics
 Achievements related to studies: Participation in a conference on the culture of the countries of the studied language;
