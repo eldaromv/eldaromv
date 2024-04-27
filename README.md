@@ -33,7 +33,7 @@ Achievements in public life: Repeated participation in scientific conferences an
 👦 Personal qualities: I can characterize myself with the following qualities: friendly, talkative, responsible, easy-going and creative person.
 
 * 🌍  I'm based in Vladivostok
-* ✉️  You can contact me at [Email: eldar.osmanov@bk.ru, Telegram: eldar.omv]
+* ✉️  You can contact me at [Email: eldar_osmanov@bk.ru, Telegram: eldar_omv]
 * 🚀  I'm currently working on [My second project.](http://github.com/eldaromv/frontend-project-46.git)
 * 🧠  I'm learning Frontend Javascript Developoper
 
