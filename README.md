@@ -28,10 +28,12 @@ Text and graphic editors (Word, WordPad, PowerPoint, Access, Paint, Excel, Photo
 
 Achievements in public life: Repeated participation in scientific conferences and webinars on the topic “Linguistics”.
 
-🤾‍♀️ Hobbies: Candidate Master of Sports Baseball (used to play baseball for 10 years, but due to the lack of time, I had to stop playing it). Now when I have free time, sometimes play basketball and go to the gym with friends. - 👦 Personal qualities: I can characterize myself with the following qualities: friendly, talkative, responsible, easy-going and creative person.
+🤾‍♀️ Hobbies: Candidate Master of Sports Baseball (used to play baseball for 10 years, but due to the lack of time, I had to stop playing it). Now when I have free time, sometimes play basketball and go to the gym with friends. 
+
+👦 Personal qualities: I can characterize myself with the following qualities: friendly, talkative, responsible, easy-going and creative person.
 
 * 🌍  I'm based in Vladivostok
-* ✉️  You can contact me at [Email: eldar\_osmanov@bk.ru, Telegram: eldar\_omv](mailto:Email: eldar_osmanov@bk.ru, Telegram: eldar_omv)
+* ✉️  You can contact me at [Email: eldar.osmanov@bk.ru, Telegram: eldar.omv]
 * 🚀  I'm currently working on [My second project.](http://github.com/eldaromv/frontend-project-46.git)
 * 🧠  I'm learning Frontend Javascript Developoper
 
