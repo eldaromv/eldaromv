@@ -1,7 +1,35 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eldar
 =============================================================================================================================
 
-I've been learning javascropt for a year. After my graduation, I realized that I want to work in IT sphere. About 6 months I've been learning Backend Java programming. But then I changed my mind and took courses of Frotend Javascript Developer. I'm still on my small stuyding way. 
+I've been learning javascropt for a year. After my graduation, I realized that I want to work in IT sphere. About 6 months I've been learning Backend Java programming. But then I changed my mind and took courses of Frotend Javascript Developer. I'm still on my small stuyding way.
+
+💻 Frontend - development:
+• HTML and CSS layout
+• Setting up a development environment using Node.js, npm
+• Use code quality improvement tools (ESLint, Code Climate)
+• Use the version control system Git, GitHub
+• JavaScript, TypeScript
+• React
+• Git
+• Webpack
+
+🎓 Educational projects: 
+* Brain Games
+Mind Games is a set of five console games based on the principle of popular mobile brain—boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again.
+
+Link to the project: https://github.com/eldaromv/frontend-project-44.git
+
+Technology stack: JavaScript, Node.js, npm, ESLint, CodeClimate, Git, GitHub
+
+* File Difference Calculator
+The Difference Calculator is a program that compares two JSON or YAML files and shows the difference. The output can be in a stylish, plain, or json versions.
+"+" means that the element has been added,
+"-" means that the element has been deleted,
+unsigned means that the element will not change.
+
+Link to the project: https://github.com/eldaromv/frontend-project-46.git
+
+Technology stack: JavaScript, Node.js, npm, Jest, ESLint, CodeClimate, Git, GitHub, GitHub actions, Lodash, Commander
 
 👨‍🎓 Higher education: Pacific National University 2019-2023 Bachelor’s Degree in Linguistics
 Achievements related to studies: Participation in a conference on the culture of the countries of the studied language;
@@ -33,7 +61,7 @@ Achievements in public life: Repeated participation in scientific conferences an
 👦 Personal qualities: I can characterize myself with the following qualities: friendly, talkative, responsible, easy-going and creative person.
 
 * 🌍  I'm based in Vladivostok
-* ✉️  You can contact me at [Email: eldar_osmanov@bk.ru, Telegram: eldar_omv]
+* ✉️  You can contact me at [Email: eldar_osmanov@bk.ru, Telegram: el_osv]
 * 🚀  I'm currently working on [My second project.](http://github.com/eldaromv/frontend-project-46.git)
 * 🧠  I'm learning Frontend Javascript Developoper
 
